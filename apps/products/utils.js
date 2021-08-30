@@ -1,0 +1,1 @@
+//utils.js for products

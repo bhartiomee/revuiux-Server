@@ -1,0 +1,5 @@
+const PARTICIPANT = 1;
+const RESEARCHER = 2;
+const OBJECTIVE = 1;
+const SUBJECTIVE = 2;
+module.exports = { PARTICIPANT, RESEARCHER, OBJECTIVE, SUBJECTIVE };
